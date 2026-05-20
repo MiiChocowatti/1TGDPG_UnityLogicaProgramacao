@@ -7,6 +7,13 @@ TagManager:
   - Water
   - Air
   - Coin
+  - Player1
+  - Player2
+  - left
+  - center
+  - right
+  - WallX
+  - WallY
   layers:
   - Default
   - TransparentFX
